@@ -1,0 +1,12 @@
+*.DS_Store
+*.pyc
+*.db
+*.swp
+src
+
+
+local_config.py
+
+src/jenkinsapi/
+
+revision.txt
